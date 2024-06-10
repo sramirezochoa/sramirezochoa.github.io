@@ -1,3 +1,11 @@
+# Who am I?
+
+My name is Saul Ramirez Ochoa, about my profile, well, this is something difficult to describe given my many different mixed roles over time, but I would describe myself as a Java developer Senior/Architect Jr, but also played System Analyst and Solution Delivery Analyst, so I have a strong fundamental knowledge on most popular frameworks with different level of expertise of them, but also complementing with strong soft skills development when it comes to engage customers and working together to define a final solution.
+
+I love playing with new tools, languages and technologies, maybe not becoming a chief expert on each matter because is almost impossible, but at least I acquire the knowledge and being aware of other approaches, designs, how-to’s, design patterns and theoretical basis of other technologies.
+
+In this field/profession, where reaching out the go-live of a software product, has become harder and harder because of different issues: budget, administrative issues, timing and staff turnover, just to mention some... remaining reliable and committed is very important, I consider myself the kind of person that, when times gets harder or complex, is the last, or one of the last ones on giving up on a project, so I think this is important to highlight on my profile and is something I can be super proud of.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sramirezochoa/sramirezochoa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
