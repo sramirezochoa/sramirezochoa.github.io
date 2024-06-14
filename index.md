@@ -28,6 +28,9 @@ Java language is what have driven my career, I have experience in next technolog
         - Spring Boot
         - Spring Data
         - Spring AOP
+    - Apache Camel
+    - Micronaut
+    - Mulesoft
 - Database frameworks:
     - Hibernate
     - IBatis
@@ -58,6 +61,18 @@ Java language is what have driven my career, I have experience in next technolog
     - Replication thru rsync and scp
 - Windows
     - Powershell scriptting
+ 
+## Other Technologies and knowledge
+
+- SQL
+- JSON
+- XML
+
+## Other Tech and Roles
+
+- **Integration Specialist**
+    - Visit sites to integrate their business model into the main company one
+- **Oracle Agile PLM Administrator and Developer**
  
 ## Reference repos:
 
