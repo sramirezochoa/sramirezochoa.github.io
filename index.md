@@ -6,7 +6,7 @@ I love playing with new tools, languages and technologies, maybe not becoming a 
 
 In this field/profession, where reaching out the go-live of a software product, has become harder and harder because of different issues: budget, administrative issues, timing and staff turnover, just to mention some... remaining reliable and committed is very important, I consider myself the kind of person that, when times gets harder or complex, is the last, or one of the last ones on giving up on a project, so I think this is important to highlight on my profile and is something I can be super proud of.}
 
-[Download Full Resume here ](static/CV%20Saul%20Ramirez%20Ochoa.pdf)
+[Download Full Resume here ](static/CV%20Saul%20Ramirez%20Ochoa.pdf){:target="_blank"}
 
 **Note: Will try to upload more info and create new repos with diff stuff I work on**
 
