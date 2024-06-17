@@ -1,5 +1,3 @@
-- [Download Full Resume here](static/CV%20Saul%20Ramirez%20Ochoa.pdf){:target="_blank"}
-
 # Who am I?
 
 My name is **Saul Ramirez Ochoa**, about my profile, well, this is something difficult to describe given my many different mixed roles over time, but I would describe myself as a **Java developer Senior**, but also played **System Analyst**, **Solution Delivery Analyst** and lastly and but not less important **Support Analyst**, so I have a strong fundamental knowledge on most popular frameworks with different level of expertise of them, but also complementing with strong soft skills development when it comes to engage customers and working together to define a final solution.
@@ -8,6 +6,7 @@ I love playing with new tools, languages and technologies, maybe not becoming a 
 
 In this field/profession, where reaching out the go-live of a software product, has become harder and harder because of different issues: budget, administrative issues, timing and staff turnover, just to mention some... remaining reliable and committed is very important, I consider myself the kind of person that, when times gets harder or complex, is the last, or one of the last ones on giving up on a project, so I think this is important to highlight on my profile and is something I can be super proud of.}
 
+- [Download Full Resume here](static/CV%20Saul%20Ramirez%20Ochoa.pdf){:target="_blank"}
 - [Explore My GitHub Repos](https://github.com/sramirezochoa/){:target="_blank"}
 
 **Note: Will try to upload more info and create new repos with diff stuff I work on**
