@@ -4,7 +4,7 @@ My name is **Saul Ramirez Ochoa**, about my profile, well, this is something dif
 
 I love playing with new tools, languages and technologies, maybe not becoming a chief expert on each matter because is almost impossible, but at least I acquire the knowledge and being aware of other approaches, designs, how-to’s, design patterns and theoretical basis of other technologies.
 
-In this field/profession, where reaching out the go-live of a software product, has become harder and harder because of different issues: budget, administrative issues, timing and staff turnover, just to mention some... remaining reliable and committed is very important, I consider myself the kind of person that, when times gets harder or complex, is the last, or one of the last ones on giving up on a project, so I think this is important to highlight on my profile and is something I can be super proud of.}
+In this field/profession, where reaching out the go-live of a software product, has become harder and harder because of different issues: budget, administrative issues, timing and staff turnover, just to mention some... remaining reliable and committed is very important, I consider myself the kind of person that, when times gets harder or complex, is the last, or one of the last ones on giving up on a project, so I think this is important to highlight on my profile and is something I can be super proud of.
 
 - [Download Full Resume here](static/CV%20Saul%20Ramirez%20Ochoa.pdf){:target="_blank"}
 - [Explore My GitHub Repos](https://github.com/sramirezochoa/){:target="_blank"}
