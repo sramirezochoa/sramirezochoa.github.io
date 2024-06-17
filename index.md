@@ -1,6 +1,6 @@
-# Who am I?
-
 - [Download Full Resume here](static/CV%20Saul%20Ramirez%20Ochoa.pdf){:target="_blank"}
+
+# Who am I?
 
 My name is **Saul Ramirez Ochoa**, about my profile, well, this is something difficult to describe given my many different mixed roles over time, but I would describe myself as a **Java developer Senior**, but also played **System Analyst**, **Solution Delivery Analyst** and lastly and but not less important **Support Analyst**, so I have a strong fundamental knowledge on most popular frameworks with different level of expertise of them, but also complementing with strong soft skills development when it comes to engage customers and working together to define a final solution.
 
